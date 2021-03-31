@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "AliLiveRtcSDK_iOS"
-  spec.version      = "1.19.4.2103178"
+  spec.version      = "1.19.4.2103302006135"
   spec.summary      = "AliLiveRtcSDK_iOS."
 
   # This description is used to generate tags and improve search results.
